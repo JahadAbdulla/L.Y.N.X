@@ -1,3 +1,4 @@
+# first go download ollama and do some stuff there are tutorials in youtube so when you add your api then take a random photo maybe your with your friend baking cake then add path to code thats all is there is problem contact with me cahadabdulla@gmail.com I will answer you questions İ üish you nice day~Jahad
 from PIL import Image, ImageTk, ImageDraw
 import customtkinter as ctk
 import pyttsx3
